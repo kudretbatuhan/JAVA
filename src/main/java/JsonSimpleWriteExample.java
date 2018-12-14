@@ -26,9 +26,6 @@ import java.io.IOException;
 import java.util.Map;
 
 
-
-//C:\Users\Kudret Batuhan\Desktop\JiraSync\MavenJsonExample\src\resource
-
 public class JsonSimpleWriteExample {
     public static void main(String[] args) throws IOException {
 
